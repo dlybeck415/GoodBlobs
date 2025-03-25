@@ -8,6 +8,8 @@
 #define MATRIX_HEIGHT 16
 #define NUM_BLOBS 3
 
+This is a test
+
 Adafruit_NeoPixel matrix(NUM_LEDS, LED_PIN, NEO_GRB + NEO_KHZ800);
 
 // Capacitive touch GPIOs
