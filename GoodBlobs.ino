@@ -10,6 +10,8 @@
 
 This is a test
 
+Another Test
+
 Adafruit_NeoPixel matrix(NUM_LEDS, LED_PIN, NEO_GRB + NEO_KHZ800);
 
 // Capacitive touch GPIOs
